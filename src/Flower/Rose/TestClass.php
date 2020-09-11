@@ -12,7 +12,7 @@ class TestClass
 
     public function __construct()
     {
-        echo 'v3.0';
+        echo '1.3.0';
     }
 
 }
