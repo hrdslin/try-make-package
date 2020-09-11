@@ -12,7 +12,7 @@ class TestClass
 
     public function __construct()
     {
-        echo 112233;
+        echo 'aaaabbbb';
     }
 
 }
